@@ -1,0 +1,5 @@
+{
+  "name": "产品解读智能体Gemini AI",
+  "description": "An intelligent medical product analysis tool using Gemini 2.5 Flash to interpret instruction manuals, ingredients, pathology, and pharmacology with search grounding.",
+  "requestFramePermissions": []
+}
